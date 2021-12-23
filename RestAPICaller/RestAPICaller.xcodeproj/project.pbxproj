@@ -16,6 +16,7 @@
 		7B3ABD322773C99A009884D1 /* RestAPICallerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3ABD312773C99A009884D1 /* RestAPICallerTests.swift */; };
 		7B3ABD3C2773C99A009884D1 /* RestAPICallerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3ABD3B2773C99A009884D1 /* RestAPICallerUITests.swift */; };
 		7B3ABD3E2773C99A009884D1 /* RestAPICallerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3ABD3D2773C99A009884D1 /* RestAPICallerUITestsLaunchTests.swift */; };
+		7B3ABD4B2773C9DD009884D1 /* APICore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3ABD4A2773C9DD009884D1 /* APICore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		7B3ABD372773C99A009884D1 /* RestAPICallerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RestAPICallerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B3ABD3B2773C99A009884D1 /* RestAPICallerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestAPICallerUITests.swift; sourceTree = "<group>"; };
 		7B3ABD3D2773C99A009884D1 /* RestAPICallerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestAPICallerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7B3ABD4A2773C9DD009884D1 /* APICore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				7B3ABD1A2773C995009884D1 /* AppDelegate.swift */,
 				7B3ABD1C2773C995009884D1 /* SceneDelegate.swift */,
 				7B3ABD1E2773C995009884D1 /* ViewController.swift */,
+				7B3ABD4A2773C9DD009884D1 /* APICore.swift */,
 				7B3ABD202773C995009884D1 /* Main.storyboard */,
 				7B3ABD232773C999009884D1 /* Assets.xcassets */,
 				7B3ABD252773C999009884D1 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				7B3ABD1F2773C995009884D1 /* ViewController.swift in Sources */,
 				7B3ABD1B2773C995009884D1 /* AppDelegate.swift in Sources */,
 				7B3ABD1D2773C995009884D1 /* SceneDelegate.swift in Sources */,
+				7B3ABD4B2773C9DD009884D1 /* APICore.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
